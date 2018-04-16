@@ -6,5 +6,5 @@ function saludar(nombre:string) {
 const wolverine = {
     nombre : "Logan"
 }
-// le enviaremos el string a la función ya masticado ("Logan")
+// le enviaremos el string a la función ya masticado ("Logan")//
 saludar(wolverine.nombre)
