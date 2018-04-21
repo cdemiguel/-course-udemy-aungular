@@ -1,0 +1,1 @@
+console.log("ver teoria tema 12 curso typescript")
